@@ -1,6 +1,6 @@
 # Google Mockup
 
-This project can be seen at ([dusty-grass.surge.sh](https://dusty-grass.surge.sh/search))
+This project can be seen at (https://disagreeable-chicken.surge.sh/search)
 
 It is a Google Clone, fit with a search function and the ability to see the main results, related news, videos, and images. 
 
