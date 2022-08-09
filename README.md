@@ -4,7 +4,9 @@
 
 This is a Google Clone React project, fit with a search function and the ability to see the main results, related news, videos, and images. It is semi-responsive, and has both dark and light mode settings. There is no manual search. Rather, the application automatically switches search topics after a period of time using debounce. 
 
-This is also a guided project by JavaScript Mastery. I modified it based on the React Router update to V6, and the updates to the Google API. 
+This is also a guided project by JavaScript Mastery. I modified it based on the React Router update to V6, and the updates to the Google API.
+
+Find that API here: https://rapidapi.com/apigeek/api/google-search3?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
 
 Home Page, Default search set as "fishing"
 ![image](https://user-images.githubusercontent.com/71574223/174509880-0d1ec96c-6bf5-47d2-ac9b-b9ba033b2c81.png)
